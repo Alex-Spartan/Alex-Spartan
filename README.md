@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hrushikesh Vibhute</h1>
-<h3 align="center">A Web dev</h3>
+<h3 align="center">A Electronic Enthusiast</h3>
 
 
 - 💬 Ask me about **STM32, ESP32, Embedded**
