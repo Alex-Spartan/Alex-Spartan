@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
   <a href="https://www.freertos.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/freertos/freertos-icon.svg" alt="freertos" width="40" height="40"/>
+    <img src="https://www.freertos.org/media/2023/logo.png" alt="freertos" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
