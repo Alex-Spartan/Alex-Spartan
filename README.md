@@ -2,9 +2,7 @@
 <h3 align="center">A Web dev</h3>
 
 
-- 🌱 I’m currently learning **Nextjs, AWS**
-
-- 💬 Ask me about **Nextjs, Express, Mongodb**
+- 💬 Ask me about **STM32, ESP32, Embedded**
 
 - 📫 How to reach me **hrushikeshvibhute@gmail.com**
 
